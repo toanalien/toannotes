@@ -22,7 +22,7 @@ Từ một tìm kiếm nhanh trên Google, bạn sẽ tìm thấy rất nhiều 
 - Tôi không thể tham gia vào 50 hoặc 75 thứ. Đó là cách đầu tư của Noah’s Ark - bạn kết thúc với một sở thú theo cách đó. Tôi thích đặt số tiền có ý nghĩa vào một vài điều. - Warren Buffett
 - Những người khôn ngoan đặt cược rất nhiều khi thế giới cho họ cơ hội đó. Họ đặt cược lớn khi họ có tỷ lệ cược. Và thời gian còn lại, họ không. Nó chỉ đơn giản như vậy. - Charlie Munger
 
-## 4. Ví dụ về gian lận đồng xu
+## 4. Ví dụ về cược đồng xu
 
 Khi bạn đặt cược với một đồng xu lật theo ý bạn được 55% (một đồng xu công bằng sẽ có cơ hội thắng 50%). Ví dụ của chúng tôi, hãy giả sử bạn giả định bạn thắng $ 1 hoặc mất $ 1 cho kết quả đầu hoặc đuôi có liên quan đến mức độ rủi ro. Nói cách khác, chúng tôi đang giả định tỷ lệ hoàn trả 1 đến 1 so với KC hoặc số tiền rủi ro cho mỗi lần đặt cược.
 
