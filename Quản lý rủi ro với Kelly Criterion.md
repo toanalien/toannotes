@@ -165,7 +165,7 @@ plt.xlabel('Years');
 plt.ylabel('$ Return')
 ```
 
-![])(https://miro.medium.com/max/1208/0*eAR4eeGrOq6GFJoK)
+![](https://miro.medium.com/max/1208/0*eAR4eeGrOq6GFJoK)
 
 Giống như trong ví dụ lật đồng xu của chúng tôi, các giá trị cao hơn cho KC dẫn đến sự biến động lớn hơn. Số tiền tối ưu là 4.2 đã mất hơn 50% giá trị vào khoảng đầu năm 2019. Điều đó khá đáng sợ đối với hầu hết mọi người, đó là lý do tại sao các học viên áp dụng KC thường áp dụng một nửa KC (vốn_2.10 từ lô ngoài). Phần kết luận
 
