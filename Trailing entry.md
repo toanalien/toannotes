@@ -12,3 +12,8 @@ Nhận signal
 ## Backtest
 
 ## Code
+
+
+## Reference
+
+http://fxcodebase.com/wiki/index.php/Entry_Order
