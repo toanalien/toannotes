@@ -31,7 +31,7 @@ ssh key-gen
 
 2. Copy nội dung file ~/.ssh/id_rsa.pub paste vào như hình bên dưới.
 
-https://i.imgur.com/ztpAcM8.png
+![](https://i.imgur.com/ztpAcM8.png)
 
 3. Kiểm tra remote dưới server đã đúng định dạng `git@gitlab.com:` chưa, nếu chưa đổi lại cho đúng.
 Sau đó pull code mới về.
