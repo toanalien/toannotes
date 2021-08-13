@@ -8,7 +8,7 @@ Phải đủ 2 session là runserver, worker thì mới chạy đúng.
 ```bash
 # command trên macos
 tmux a
-^ b s (command + b sau đó s)
+^ b s (control + b sau đó s)
 # thì sẽ ra màn hình screen, dùng arrow up / down để chọn screen runserver
 ```
 
